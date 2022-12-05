@@ -11,7 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>ApiG25</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>ApiG25</name>
 	<description>Api para Desarrollo App Web</description>
 	<properties>
